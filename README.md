@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World 👋
+
+<p>Gracias por visitar mi pagina! </br> Soy Nicole, desarolladora front end :tecnóloga::tono_de_piel-3: </p>
+
 
 <!--
 **nicoleequijada/nicoleequijada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
