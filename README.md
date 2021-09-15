@@ -1,6 +1,6 @@
-### Hello World 👋
+#### Hello World :grin: I'm Nicole
 
-<p>Gracias por visitar mi pagina! </br> Soy Nicole, desarolladora front end :tecnóloga::tono_de_piel-3: </p>
+<p>Gracias por visitar mi pagina! </br> Soy desarolladora front end :woman_technologist: </br> Soy Venezolana :venezuela: viviendo en Chile :Chile: </p>
 
 
 <!--
