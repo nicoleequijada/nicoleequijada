@@ -2,7 +2,7 @@
 
 <p>Gracias por visitar mi pagina! ✨ </br> Soy desarolladora front end :woman_technologist: </p>
 
-</br> :yellow_heart:&nbsp; Actualmente soy estudiante en Laboratoria
+</br> :yellow_heart:&nbsp; Soy egresada de Laboratoria
 </br> :sunflower:&nbsp; Me encanta la naturaleza 
 </br> :earth_americas: :airplane:&nbsp; Uno de mis principales hobbies es viajar
 </br> :cherry_blossom: &nbsp; Mi color favorito es el rosado
